@@ -45,8 +45,8 @@ Along with the source code files (`.java`), there are 3 types of additional file
 No arguments are required to pass in the terminal in order to run the program and play the game.
 
 ## Authors
-- Viktoriya Li - vli233@uwo.ca
-- Regina Liang - rliang59@uwo.ca
-- Molick Hou - xhou54@uwo.ca
-- Collin Zhong - czhong33@uwo.ca
-- Zaid Muhammad Sattar - zsattar2@uwo.ca
+- Viktoriya Li
+- Regina Liang
+- Molick Hou 
+- Collin Zhong 
+- Zaid Muhammad Sattar 
